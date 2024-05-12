@@ -21,7 +21,7 @@ Use LinkGopher to extract all links from a given webpage.
 
 ![extractallinks](https://github.com/Astroo18/BotnetOpenRedirect/assets/64206064/3104e966-837d-49ab-b37c-e6837f279f9e)
 
-ExtractAllLinks script to gather all links from multiple files or sources.
+Click on Extract All links.
 
 ![copythemall](https://github.com/Astroo18/BotnetOpenRedirect/assets/64206064/9078b9cb-af0e-4eff-9ae4-a705bc57279f)
 
